@@ -1,2 +1,14 @@
-# Energy_Consumption_Analysis
-EnergyConsumptionAnalysis
+ProjectTitle:EnergyConsumptionAnalysis
+
+roblemStatement:
+ Projectwillanalyzeenergyusageandgreenhousegas(GHG)emissionsofOntario'sBroader
+ PublicSector(BPS)organizations, leveragingacomprehensivedatabaseofreporteddata.We
+ aimtoidentifytrends,assessconservationeffectiveness,andpinpointareasfor improvement,
+ informingdata-drivenstrategiestoachieveclimatechangemitigationgoalswithintheBPS.
+
+ DataUnderstanding
+ TheDatasetspansfromJuly2012toJune2021andcontainsinformationaboutBPS
+ organizations, includingpublichospitalsandschoolboards.Keyattributesincludeorganization
+ details,operational information,energyconsumptiondata,andGHGemissions.
+
+ 
